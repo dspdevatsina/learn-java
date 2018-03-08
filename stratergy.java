@@ -4,8 +4,7 @@ public class stratergy {
 			
 			String str = "1a2b";
 			process(str);
-			System.out.println(str.length());
-
+			//try to do this to find out feature of github.
 		}
 
 		
